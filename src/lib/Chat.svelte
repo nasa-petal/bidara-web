@@ -17,7 +17,7 @@
     type Message,
     type Chat
   } from './Types.svelte'
-  import Prompts from './Prompts.svelte'
+  //import Prompts from './Prompts.svelte'
   import Messages from './Messages.svelte'
   import { restartProfile } from './Profiles.svelte'
   import { afterUpdate, onMount, onDestroy } from 'svelte'
