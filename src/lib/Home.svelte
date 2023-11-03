@@ -45,8 +45,13 @@ const setPetalsEnabled = (event: Event) => {
   <article class="message">
     <div class="message-body">
     <p class="mb-4">
-      <strong><a href="#" target="_blank">BIDARA</a></strong>
-      is a simple one-page web interface to the OpenAI ChatGPT API. To use it, you need to register for
+      <strong>BIDARA</strong> is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies.
+    </p>
+    <p class="mb-4">
+      BIDARA can guide users through the Biomimicry Institute’s Design Process, a step-by-step method to propose biomimetic solutions to challenges. This process includes defining the problem, biologizing the challenge, discovering natural models, abstracting design strategies, and emulating nature's lessons.
+    </p>
+    <p class="mb-4">
+      To use BIDARA, you need to register for
       <a href="https://platform.openai.com/account/api-keys" target="_blank" rel="noreferrer">an OpenAI API key</a>
       first. OpenAI bills per token (usage-based), which means it is a lot cheaper than
       <a href="https://openai.com/blog/chatgpt-plus" target="_blank" rel="noreferrer">ChatGPT Plus</a>, unless you use

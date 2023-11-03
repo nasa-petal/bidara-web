@@ -5,7 +5,7 @@
   import Fa from 'svelte-fa/src/fa.svelte'
   import { faSquarePlus, faKey } from '@fortawesome/free-solid-svg-icons/index'
   import ChatOptionMenu from './ChatOptionMenu.svelte'
-  import logo from '../assets/logo.svg'
+  import logo from '../assets/bidara-logo.png'
   import { clickOutside } from 'svelte-use-click-outside'
   import { startNewChatWithWarning } from './Util.svelte'
   import { chatSortOptions } from './Settings.svelte'
