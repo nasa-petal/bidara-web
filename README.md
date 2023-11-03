@@ -1,10 +1,10 @@
-# <img src="https://github.com/nasa-petal/discord_bot/assets/1322063/c34b5526-7186-43fc-b00a-597ee773ca7b" width="40" align="left"/> BIDARA : Bio-Inspired Design and Research Assistant
+## <img src="https://github.com/nasa-petal/discord_bot/assets/1322063/c34b5526-7186-43fc-b00a-597ee773ca7b" width="40" align="left"/> BIDARA : Bio-Inspired Design and Research Assistant
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/nasa-petal/bidara-web/pages.yml?style=flat-square)](https://github.com/nasa-petal/bidara-web/actions/workflows/pages.yml)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 [![GitHub](https://img.shields.io/github/license/nasa-petal/bidara-web)](/LICENSE)
 [![All Contributors](https://img.shields.io/github/all-contributors/nasa-petal/bidara-web?color=ee8449&style=flat-square)](#contributors)
 
-## **URL**: https://nasa-petal.github.io/bidara-web/
+### **URL**: https://nasa-petal.github.io/bidara-web/
 
 ### BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies.
 
