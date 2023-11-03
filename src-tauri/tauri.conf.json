@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "chatgpt-web-desktop",
+    "productName": "bidara-desktop",
     "version": "0.1.1"
   },
   "tauri": {
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 768,
         "resizable": true,
-        "title": "ChatGPT-web Desktop app",
+        "title": "BIDARA Desktop app",
         "width": 1024
       }
     ]
