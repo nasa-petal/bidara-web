@@ -392,9 +392,9 @@
   </article>
 {/if}
 
-{#if $currentChatId !== 0 && ($currentChatMessages.length === 0 || ($currentChatMessages.length === 1 && $currentChatMessages[0].role === 'system'))}
+<!--{#if $currentChatId !== 0 && ($currentChatMessages.length === 0 || ($currentChatMessages.length === 1 && $currentChatMessages[0].role === 'system'))}
   <Prompts bind:input />
-{/if}
+{/if}-->
 </div>
 <Footer class="prompt-input-container" strongMask={true}>
   <form class="field has-addons has-addons-right is-align-items-flex-end" on:submit|preventDefault={() => submitForm()}>
