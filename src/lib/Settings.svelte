@@ -86,6 +86,7 @@ const gptDefaults = {
 }
 
 // Core set of defaults
+// #FIND
 const defaults:ChatSettings = {
   ...gptDefaults,
   profile: '',
