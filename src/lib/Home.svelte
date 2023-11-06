@@ -3,7 +3,7 @@
   import Footer from './Footer.svelte'
   import { replace } from 'svelte-spa-router'
   import { afterUpdate, onMount } from 'svelte'
-  import { getPetalsBase, getPetalsWebsocket } from './ApiUtil.svelte'
+  //import { getPetalsBase, getPetalsWebsocket } from './ApiUtil.svelte'
   import { set as setOpenAI } from './providers/openai/util.svelte'
   import { hasActiveModels } from './Models.svelte'
 
@@ -32,12 +32,12 @@ afterUpdate(() => {
     $checkStateChange++
 })
 
-const setPetalsEnabled = (event: Event) => {
+/*const setPetalsEnabled = (event: Event) => {
     const el = (event.target as HTMLInputElement)
     setGlobalSettingValueByKey('enablePetals', !!el.checked)
     showPetalsSettings = $globalStorage.enablePetals
     hasModels = hasActiveModels()
-}
+}*/
 
 </script>
 
