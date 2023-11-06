@@ -65,9 +65,11 @@ const setPetalsEnabled = (event: Event) => {
     <li>- While OpenAI has safeguards in place, BIDARA may occasionally generate incorrect or misleading information and produce offensive or biased content.</li>
     <li>- The chatbot may produce inaccurate information about people, places, or facts.</li>
     </ul>
+    <!---
     <p>
       As an alternative to OpenAI, you can also use Petals swarm as a free API option for open chat models like Llama 2. 
     </p>
+    --->
     </div>
   </article>
   <article class="message" class:is-danger={!hasModels} class:is-warning={!apiKey} class:is-info={apiKey}>
@@ -112,7 +114,7 @@ const setPetalsEnabled = (event: Event) => {
     </div>
   </article>
 
-  
+  <!---
   <article class="message" class:is-danger={!hasModels} class:is-warning={!showPetalsSettings} class:is-info={showPetalsSettings}>
     <div class="message-body">
       <label class="label" for="enablePetals">
@@ -176,6 +178,7 @@ const setPetalsEnabled = (event: Event) => {
       {/if}
     </div>
   </article>
+  --->
   {#if apiKey}
     <article class="message is-info">
       <div class="message-body">
