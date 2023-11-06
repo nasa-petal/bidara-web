@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-    import { getPetalsBase, getPetalsWebsocket } from '../../ApiUtil.svelte'
+    /*import { getPetalsBase, getPetalsWebsocket } from '../../ApiUtil.svelte'
     import { countTokens, getDelimiter, getLeadPrompt, getRoleEnd, getRoleTag, getStartSequence } from '../../Models.svelte'
     import { countMessageTokens } from '../../Stats.svelte'
     import { globalStorage } from '../../Storage.svelte'
@@ -16,7 +16,7 @@ const hideSettings = {
   frequency_penalty: true
 } as any
 
-/*const chatModelBase = {
+const chatModelBase = {
   type: 'instruct', // Used for chat, but these models operate like instruct models -- you have to manually structure the messages sent to them
   help: `Below are the settings that can be changed for the API calls. 
     See <a target="_blank" href="https://platform.openai.com/docs/api-reference/chat/create">this overview</a> to start, though not all settings translate to Petals.
