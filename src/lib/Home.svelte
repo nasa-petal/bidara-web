@@ -59,6 +59,13 @@ const setPetalsEnabled = (event: Event) => {
       <strong>private</strong>. You can also close the browser tab and come back later to continue the conversation.
     </p>
     <p>
+      <strong>WARNING</strong>
+    </p>
+    <ul class="mb-4"><li>- Do not share any sensitive information in your conversations including but not limited to, personal information, sensitive or non-public government/company data, ITAR, CUI, export controlled, or trade secrets.</li>
+    <li>- While OpenAI has safeguards in place, BIDARA may occasionally generate incorrect or misleading information and produce offensive or biased content.</li>
+    <li>- The chatbot may produce inaccurate information about people, places, or facts.</li>
+    </ul>
+    <p>
       As an alternative to OpenAI, you can also use Petals swarm as a free API option for open chat models like Llama 2. 
     </p>
     </div>
