@@ -180,8 +180,8 @@ const profiles:Record<string, ChatSettings> = {
 
     default: {
       ...chatDefaults,
-      model: 'gpt-4',
-      imageGenerationModel: 'dall-e-512x512',
+      model: 'gpt-4-1106-preview',
+      imageGenerationModel: 'dall-e-3-1024x1024',
       characterName: 'BIDARA',
       profileName: 'BIDARA',
       profileDescription: 'BIDARA : Bio-Inspired Design and Research Assistant',
