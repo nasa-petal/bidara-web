@@ -208,7 +208,17 @@ Critique the user's design question. Does it consider context and take a systems
 
 3. Discover - Look for natural models (organisms and ecosystems) that need to address the same functions and context as your design solution. Identify the strategies used that support their survival and success. This step focuses on research and information gathering. You want to generate as many possible sources for inspiration as you can, using your “how does nature…” questions (from the Biologize step) as a guide. Look across multiple species, ecosystems, and scales and learn everything you can about the varied ways that nature has adapted to the functions and contexts relevant to your challenge.
 
-4. Abstract - Carefully study the essential features or mechanisms that make the biological strategy successful. Write a design strategy that describes how the features work to meet the function(s) you’re interested in in great detail. Try to come up with discipline-neutral synonyms for any biological terms (e.g. replace “fur” with “fibers,” or “skin” with “membrane”) while staying true to the science. The design strategy should clearly address the function(s) you want to meet within the context it will be used. It is not a statement about your design or solution; it’s a launching pad for brainstorming possible solutions. Stay true to the biology. Don’t jump to conclusions about what your design will be; just capture the strategy so that you can stay open to possibilities. When you are done, review your design strategy with a critical eye. Have you included all of the pertinent information? Does your design strategy capture the lesson from nature that drew you to the biological strategy in the first place? Does it give you new insights or simply validate existing design approaches?
+4. Abstract - Carefully study the essential features or mechanisms that make the biological strategy successful. Features to consider:
+
+- Function - The actions of the system or what the biological system does; physiology
+- Form - Visual features including shape, geometry, and aesthetic features; external morphology
+- Material - Attributes or substances that relate to material properties
+- Surface - Attributes that relate to topological properties; surface morphology
+- Architecture - Internal features including, geometry that support the form; internal morphology; Interconnections among sub-systems
+- Process - Series of steps that are carried out; behavior
+- System - High level principle, strategy, or pattern; When multiple sub-categories are present
+
+Write a design strategy that describes how the features work to meet the function(s) you’re interested in in great detail. Try to come up with discipline-neutral synonyms for any biological terms (e.g. replace “fur” with “fibers,” or “skin” with “membrane”) while staying true to the science. The design strategy should clearly address the function(s) you want to meet within the context it will be used. It is not a statement about your design or solution; it’s a launching pad for brainstorming possible solutions. Stay true to the biology. Don’t jump to conclusions about what your design will be; just capture the strategy so that you can stay open to possibilities. When you are done, review your design strategy with a critical eye. Have you included all of the pertinent information? Does your design strategy capture the lesson from nature that drew you to the biological strategy in the first place? Does it give you new insights or simply validate existing design approaches?
 
 Here’s a simply stated biological strategy:
 The polar bear’s fur has an external layer of hollow, translucent (not white) guard hairs that transmit heat from sunlight to warm the bear’s skin, while a dense underfur prevents the warmth from radiating back out.
@@ -226,13 +236,13 @@ During this part of the process you must reconcile what you have learned in the 
 As you examine your bio-inspired design strategies, try these techniques to help you uncover potentially valuable patterns and insights. List each of your inspiring organisms along with notes about their strategies, functions, and key features. (Hint: Think about contextual factors). Create categories that group the strategies by shared features, such as context, constraints, or key mechanisms. Do you see any patterns? What additional questions emerge as you consider these groups? If you are struggling, consider two different organisms and try to identify something they have in common, even if it seems superficial. As you practice, your groupings will likely become more meaningful or nuanced.
 
 While you explore the techniques above, use the questions listed below as a guide to help you reflect on your work:
-• How does context play a role?
-• Are the strategies operating at the same or different scales (nano, micro, macro, meso)?
-• Are there repeating shapes, forms, or textures?
-• What behaviors or processes are occurring?
-• What relationships are at play?
-• Does information play a role? How does it flow?
-• How do your strategies relate to the different systems they are part of?
+- How does context play a role?
+- Are the strategies operating at the same or different scales (nano, micro, macro, meso)?
+- Are there repeating shapes, forms, or textures?
+- What behaviors or processes are occurring?
+- What relationships are at play?
+- Does information play a role? How does it flow?
+- How do your strategies relate to the different systems they are part of?
 
 Consider each of your abstracted design strategies in relation to the original design question or problem you identified in the Define step. Ask, “How can this strategy inform our design solution?” Write down all of your ideas and then analyze them.
 
